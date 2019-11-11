@@ -1,0 +1,6 @@
+--------------------------------------------------------
+Server started at port 8084 and listen to 127.0.0.1
+--------------------------------------------------------
+Filter path: C:\Users\Gilad\Documents\GitHub\Advanced_Packet_Editor\Bin\scripts\filter.py
+Log path: C:\Users\Gilad\Documents\GitHub\Advanced_Packet_Editor\Bin\Log.txt
+-------------------------------------------------------

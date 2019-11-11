@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\obj\Debug\UnlockAssembly.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\obj\Debug\UnlockAssembly.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\bin\Debug\UnlockAssembly.exe.config
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\bin\Debug\UnlockAssembly.exe
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\bin\Debug\UnlockAssembly.pdb
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\bin\Debug\dnlib.dll
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\bin\Debug\dnlib.pdb
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\bin\Debug\dnlib.xml
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\obj\Debug\UnlockAssembly.csproj.CopyComplete
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\obj\Debug\UnlockAssembly.exe
+C:\Users\admin\Desktop\shared\toolz\UnlockAssembly\UnlockAssembly\obj\Debug\UnlockAssembly.pdb

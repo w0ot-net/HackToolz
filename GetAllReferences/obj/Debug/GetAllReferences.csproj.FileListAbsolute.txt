@@ -1,0 +1,10 @@
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\bin\Debug\GetAllReferences.exe.config
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\bin\Debug\GetAllReferences.exe
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\bin\Debug\GetAllReferences.pdb
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\bin\Debug\dnlib.dll
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\bin\Debug\dnlib.pdb
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\bin\Debug\dnlib.xml
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\obj\Debug\GetAllReferences.csproj.CoreCompileInputs.cache
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\obj\Debug\GetAllReferences.csproj.CopyComplete
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\obj\Debug\GetAllReferences.exe
+C:\Users\funBox\Desktop\illumant\tools\GetAllReferences\GetAllReferences\GetAllReferences\obj\Debug\GetAllReferences.pdb

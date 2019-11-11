@@ -1,0 +1,7 @@
+
+-Enable debug mode with 'bcdedit -debug on' with an administrative Command Prompt.
+	- use msconfig > advanced mode > check "debug"
+-Place kldbgdrv.sys (found with WinDbg) in the same directory as DIRT.exe.
+-Run DIRT.exe > output.txt with administrative privileges.
+
+The --lp-only and --no-msft switches can be used to filter results.
